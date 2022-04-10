@@ -27,4 +27,5 @@ api/v1/auth/login -> validate the user by email address and password
                               "emailAddress": "araghu.95@gmail.com",
                               "userName": "raghu"
                               }
-
+                              
+No VM args to run the application.
